@@ -1,0 +1,9 @@
+{
+  "name": "potato-launcher",
+  "version": "2.2.6",
+  "description": "Manage your Epic Games accounts via the API.",
+  "main": "index.js",
+  "author": "a.bakedpotato, m4tonoob, Otavio",
+  "license": "ISC",
+  "dependencies": {}
+}
